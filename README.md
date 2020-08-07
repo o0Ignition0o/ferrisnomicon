@@ -32,4 +32,4 @@ We would like to make the contest as fun as possible, and hopefully useful for t
 
 ### Found a rustc fail on the twitterverse ?
 
-Go ahead and [@ferrisnomicon](https://twitter.com/ferrisnomicon) so we can ask them to take part of the contest :D
+Go ahead and [@ferrisnomicon](https://twitter.com/ferrisnomicon) so we can ask them to enter the contest :D

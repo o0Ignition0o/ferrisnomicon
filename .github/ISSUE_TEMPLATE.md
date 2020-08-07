@@ -1,5 +1,7 @@
 # +\_+ We have a new fail!
 
+:warning: Note the contest will focus on compile time and runtime errors. Internal Compiler Errors (ICEs) aren't in the scope of the contest. :warning:
+
 ## Screenshot our output snippet
 
 paste the output between three backticks so it gets formatted well:

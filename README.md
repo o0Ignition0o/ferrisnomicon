@@ -10,6 +10,8 @@
 
 In this repository you can find the most spectacular (and fun!) rustc fails, and vote for your favorite one!
 
+:warning: Note the contest will focus on compile time and runtime errors. Internal Compiler Errors (ICEs) aren't in the scope of the contest. :warning:
+
 ### Contest time frame
 
 The contest will follow the Rust release train.
@@ -28,7 +30,7 @@ We would like to make the contest as fun as possible, and hopefully useful for t
 
 - A screenshot of the fail (or a snippet of the output)
 
-- The version of rustc that triggered the error (it's the output of `rustc --version`). It must be either the latest stable, beta, or a nightly
+- The version of rustc that triggered the error (it's the output of `rustc --version`). It must be either the latest stable, beta, or a nightly.
 
 - A (hopefully small) reproducible code sample
 

@@ -2,7 +2,9 @@
 
 ![ferrisnomicon banner](./banner.png)
 
-<a href=”https://twitter.com/ferrisnomicon"><img src=”https://img.shields.io/twitter/followferrisnomicon?label=Follow&style=social"></a>
+[Follow @ferrisnomicon on Twitter!](https://twitter.com/ferrisnomicon)
+
+<a href="https://twitter.com/ferrisnomicon"><img src="https://img.shields.io/twitter/follow/ferrisnomicon?label=Follow&style=social"></a>
 
 ### Exploring rustc's most spectacular fails!
 
@@ -10,7 +12,7 @@ In this repository you can find the most spectacular (and fun!) rustc fails, and
 
 ### Vote for a fail
 
-Head over to the [issues section](https://github.com/o0Ignition0o/ferrisnomicon/issues) to find some super fun fails, and use the available emojis to show your support! :thumbsup: :heart: For your information, only positive emojis will be counted, and :rocket: will count as positive as well :D
+Head over to the [issues section](https://github.com/o0Ignition0o/ferrisnomicon/issues) to find some super fun fails, and use the available emojis to show your support! :thumbsup: :heart: For your information, only positive emojis will be counted, and :rocket: will count as positive as well :grin:
 
 ### Submit a fail
 

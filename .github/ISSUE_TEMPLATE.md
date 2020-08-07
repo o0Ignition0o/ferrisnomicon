@@ -12,6 +12,8 @@ boom rustc explosion goes here
 
 ### Output of `rustc --version`
 
+It must be either the latest stable, beta, or a nightly
+
 ### Reproducible code sample
 
 ### Link to the rust playground

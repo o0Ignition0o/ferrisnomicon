@@ -10,6 +10,12 @@
 
 In this repository you can find the most spectacular (and fun!) rustc fails, and vote for your favorite one!
 
+### Contest time frame
+
+The contest will follow the Rust release train.
+
+Each new release will mark the end of a given contest. We will then nominate the most fun entry, and let people submit bugs for the new Rust version.
+
 ### Vote for a fail
 
 Head over to the [issues section](https://github.com/o0Ignition0o/ferrisnomicon/issues) to find some super fun fails, and use the available emojis to show your support! :thumbsup: :heart: For your information, only positive emojis will be counted, and :rocket: will count as positive as well :grin:
@@ -22,7 +28,7 @@ We would like to make the contest as fun as possible, and hopefully useful for t
 
 - A screenshot of the fail (or a snippet of the output)
 
-- The version of rustc that triggered the error (it's the output of `rustc --version`)
+- The version of rustc that triggered the error (it's the output of `rustc --version`). It must be either the latest stable, beta, or a nightly
 
 - A (hopefully small) reproducible code sample
 

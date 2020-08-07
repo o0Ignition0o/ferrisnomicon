@@ -1,6 +1,6 @@
 # +\_+ We have a new fail!
 
-:warning: Note the contest will focus on compile time and runtime errors. Internal Compiler Errors (ICEs) aren't in the scope of the contest. :warning:
+:warning: Note the contest will focus on compile time and runtime errors. Internal Compiler Errors (ICEs) aren't in the scope of the contest. You should report those to [the Rust Compiler issue tracker.](https://github.com/rust-lang/rust/issues/) :warning:
 
 ## Screenshot our output snippet
 
